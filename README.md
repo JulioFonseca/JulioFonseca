@@ -1,17 +1,14 @@
-Hello!! I'm Julio! :) 
-
+###  Hi I'm Julio Fonseca 👋
 - Studying Information System
 - Focused on React towards the dream of becoming a great Web Developer!
 - I like to read, learn new technologies, photography, movies and music.
 
 Knowing the importance of websites and applications in our daily lives, in addition to connecting with people, cultures and all the thousands of possibilities provided by technology, I fell in love with the idea of having development as a profession. I decided to face this development path since I was 16 years old, I seek knowledge in the area and I am currently a software developer in my city, working initially with flutter and currently with React.
-<br>
+<br/> 
 
-<div align="center">
-  <a href="https://github.com/JulioFonseca">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JulioFonseca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFonseca&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<a href="https://github.com/JulioFonseca/JulioFonseca">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=JulioFonseca&hide=contribs,prs"/>
+</a>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
