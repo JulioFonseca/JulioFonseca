@@ -1,5 +1,5 @@
 ###  Hi I'm Julio Fonseca 👋
-- Studying Information System
+- Studying Software analysis and development
 - Focused on React towards the dream of becoming a great Web Developer!
 - I like to read, learn new technologies, photography, movies and music.
 
