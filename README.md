@@ -26,10 +26,3 @@ Knowing the importance of websites and applications in our daily lives, in addit
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/julio-fonseca-29a33616b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
- ##
- <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFonseca&layout=compact&theme=tokyonight) -->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-<div> 
- 
-</div>
