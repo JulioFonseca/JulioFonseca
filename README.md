@@ -37,6 +37,4 @@ Embracing the dynamic role that websites and applications play in our daily live
   <a href="https://www.youtube.com/YourYouTubeChannel" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 <br/>
-🌐 Check out my Portfolio: https://juliofonseca.vercel.app/
-
 Let's code the future together! 🚀✨
